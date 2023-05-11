@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_add" android:title="Add"/>
+    <item android:id="@+id/action_subtract" android:title="Subtract"/>
+    <item android:id="@+id/action_multiply" android:title="Multiply"/>
+    <item android:id="@+id/action_divide" android:title="Divide"/>
+</menu>

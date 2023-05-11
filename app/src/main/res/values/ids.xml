@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scroll_view" type="id" />
+    <item name="input1" type="id" />
+    <item name="input2" type="id" />
+    <item name="txt_result" type="id" />
+    <item name="fragmentContainer" type="id" />
+</resources>
